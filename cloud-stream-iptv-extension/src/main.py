@@ -5,7 +5,7 @@ def main():
     """
     Main function to interact with M3U URLs and Cloud Stream API.
     """
-    m3u_url = input("Enter M3U URL: ")
+    m3u_url = input("http://xtv.ooo:8080/get.php?username=Shaukat12&password=IPTV123&type=m3u_plus&output=ts")
     
     try:
         # Fetch and parse the M3U data
